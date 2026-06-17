@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+python-docx
+pandas
+scikit-learn
+gradio
